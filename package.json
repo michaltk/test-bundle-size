@@ -1,0 +1,28 @@
+{
+  "name": "test-bundle-size",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "bundlesize"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://michaltk@github.com/michaltk/test-bundle-size.git"
+  },
+  "bundlesize": [
+    {
+      "path": "./index.js",
+      "maxSize": "600B"
+    }
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaltk/test-bundle-size/issues"
+  },
+  "homepage": "https://github.com/michaltk/test-bundle-size#readme",
+  "dependencies": {
+    "bundlesize": "^0.14.4"
+  }
+}
