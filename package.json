@@ -13,7 +13,7 @@
   "bundlesize": [
     {
       "path": "./index.js",
-      "maxSize": "6B"
+      "maxSize": "100B"
     }
   ],
   "author": "",
