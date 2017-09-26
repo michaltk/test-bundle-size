@@ -1,1 +1,3 @@
-const test = () => {}
+const test = () => {
+  const test = 'changed something'
+}
