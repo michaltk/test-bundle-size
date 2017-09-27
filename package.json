@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/michaltk/test-bundle-size#readme",
   "dependencies": {
-    "bundlesize": "github:michaltk/bundlesize#fixes"
+    "bundlesize": "michaltk/bundlesize#fixes"
   }
 }
