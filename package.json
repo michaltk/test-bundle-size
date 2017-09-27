@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "bundlesize"
+    "test": "bundlesize run"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/michaltk/test-bundle-size#readme",
   "dependencies": {
-    "bundlesize": "^0.14.4"
+    "bundlesize": "github:michaltk/bundlesize#fixes"
   }
 }
