@@ -1,3 +1,3 @@
 const test = () => {
-  const foo = 'bar'
+  const foo = 'more test.......'
 }
